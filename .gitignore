@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# Database
+database.db
+
+# Uploads
+uploads/
